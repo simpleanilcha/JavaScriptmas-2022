@@ -14,3 +14,4 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - [Day 5 🍭 Candy Sale](https://scrimba.com/scrim/co72e49a8bbed04309b53c3c9)
 - [Day 6 🌮 Taco Tray](https://scrimba.com/scrim/coa1d4fcd95bad583b4269c5c)
 - [Day 7 🔡 Alternating Caps](https://scrimba.com/scrim/co2c241ec91c41f3191e09863)
+- [Day 8 🕰️ Valid Time](https://scrimba.com/scrim/co4cd4b43adcd290b5d162f70)
