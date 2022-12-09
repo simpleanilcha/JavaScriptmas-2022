@@ -15,3 +15,4 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - [Day 6 🌮 Taco Tray](https://scrimba.com/scrim/coa1d4fcd95bad583b4269c5c)
 - [Day 7 🔡 Alternating Caps](https://scrimba.com/scrim/co2c241ec91c41f3191e09863)
 - [Day 8 🕰️ Valid Time](https://scrimba.com/scrim/co4cd4b43adcd290b5d162f70)
+- [Day 9 🔠 toTitleCase()](https://scrimba.com/scrim/cocd840de8952a5d8cd532b4d)
