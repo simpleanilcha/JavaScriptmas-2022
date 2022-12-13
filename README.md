@@ -19,3 +19,4 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - [Day 10 📏 Sort by Length](https://scrimba.com/scrim/coc8a40f4855d2de615c03469)
 - [Day 11 👽 Decode an Alien Message ](https://scrimba.com/scrim/co3544954895ec5cacfaaab09)
 - [Day 12 ☕️ Breakfast Menu ](https://scrimba.com/scrim/co0924933b9333fda4663174e)
+- [Day 13 😃 Emojify! ](https://scrimba.com/scrim/cof6e44fb8c80785e226d0a63)
