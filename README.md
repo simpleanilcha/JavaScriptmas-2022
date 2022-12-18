@@ -24,3 +24,4 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - [Day 15 ↔️ Palindromes ](https://scrimba.com/scrim/co25d4b8cbf1e702582cd508f)
 - [Day 16 🤖 Insert Dashes ](https://scrimba.com/scrim/co8754483a09af110b1814d48)
 - [Day 17 🐱 Pumpkin's Prizes ](https://scrimba.com/scrim/co4ca48c4be45c235427a64bc)
+- [Day 18 🍬 Candies ](https://scrimba.com/scrim/coce14006aacf97dd60b0b049)
