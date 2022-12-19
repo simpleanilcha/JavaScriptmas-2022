@@ -25,3 +25,4 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - [Day 16 🤖 Insert Dashes ](https://scrimba.com/scrim/co8754483a09af110b1814d48)
 - [Day 17 🐱 Pumpkin's Prizes ](https://scrimba.com/scrim/co4ca48c4be45c235427a64bc)
 - [Day 18 🍬 Candies ](https://scrimba.com/scrim/coce14006aacf97dd60b0b049)
+- [Day 19 📆 Century From Year ](https://scrimba.com/scrim/co85248599c5a669d4297fda6)
