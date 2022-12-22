@@ -28,3 +28,4 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - [Day 19 📆 Century From Year ](https://scrimba.com/scrim/co85248599c5a669d4297fda6)
 - [Day 20 🎙️ Find Free Podcasts ](https://scrimba.com/scrim/coe654ca698390a270a7b9fd3)
 - [Day 21 💻 Definitely Not FizzBuzz ](https://scrimba.com/scrim/cof7d44dabdf29c7342f57026)
+- [Day 22 🍴 Ready Tables ](https://scrimba.com/scrim/co6434504ae1d456dc08faf4a)
