@@ -30,3 +30,4 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 - [Day 21 💻 Definitely Not FizzBuzz ](https://scrimba.com/scrim/cof7d44dabdf29c7342f57026)
 - [Day 22 🍴 Ready Tables ](https://scrimba.com/scrim/co6434504ae1d456dc08faf4a)
 - [Day 23 🎁 Holiday Gift Shopping ](https://scrimba.com/scrim/co84a48e3b7dbf988554c87e3)
+- [Day 24 🎶 Christmas Jukebox ](https://scrimba.com/scrim/co1fe4eedaa6de107cb55af8f)
